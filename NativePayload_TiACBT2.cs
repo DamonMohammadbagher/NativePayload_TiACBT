@@ -238,7 +238,7 @@ namespace NativePayload_TiACBT2
             Console.WriteLine("Example: NativePayload_TiACBT.exe [mode 1,2] [TPID] [PAYLOAD]");
             Console.WriteLine("Example: NativePayload_TiACBT.exe 1 2187 fc,48,67,00,00,67,f1");
             /// using API Monitor & readkey
-            Console.ReadKey();
+            // Console.ReadKey();
             Console.WriteLine();
             AsyncSteps CsharpMethod1 = new AsyncSteps(_Step1_);
                 AsyncSteps CsharpMethod2 = new AsyncSteps(_Step2_);
