@@ -3,7 +3,7 @@ NativePayload_TiACBT  (Remote Thread Injection + C# Async Method + CallBack Func
 -------------
 Note: These C# Codes Tested by .Net Framework 3.5 or 4.0 & 4.5 only ;) & i will Publish Article for these codes soon , in these code we have Remote Thread Injection + Calling Async C# Methods + Callback Functions Technique CBT, in these Codes We have "CreateRemoteThread or NtCreateThreadEx" BUT the goal is Changing Code Behavior for Calling API Functions (Remote Thread Injection only), as you can see in these Pictures With API Monitor tool you can see what happened step by step. (i will publish article about this soon...)
 
-as you can see in the Picture3, Code Behavior Detected by Windows Defender(update 2020/12/20) BUT i had Meterpreter Session ¯\_(ツ)_/¯
+as you can see in the Picture3, Code Behavior Detected by Windows Defender(update 2020/12/20) BUT i had Session ¯\_(ツ)_/¯
 
 --------------------------------------------
 C# Codes: "New C# codes for Callback Functions will publish here soon..."
