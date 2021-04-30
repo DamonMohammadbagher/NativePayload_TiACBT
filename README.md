@@ -44,4 +44,9 @@ C# Codes: "New C# codes for Callback Functions will publish here soon..."
    ![](https://github.com/DamonMohammadbagher/NativePayload_TiACBT/blob/main/Pics/NativePayload_TiACBT2.png)
 
  --------------------------------------------    
+ Note: as you can see in the Picture, Code Behavior Detected by Windows Defender(update 2020/12/20) BUT i had meterpreter Session  ¯\_(ツ)_/¯
+
+   ![](https://github.com/DamonMohammadbagher/NativePayload_TiACBT/blob/main/Pics/NativePayload_TiACBT2.png)
+
+ --------------------------------------------    
  <p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDamonMohammadbgher%2FNativePayload_TiACBT"/></a></p>
