@@ -14,7 +14,7 @@ C# Codes: "New C# codes for Callback Functions will publish here soon..."
 
 1. NativePayload_TiACBT.cs (Remote Thread Injection + Calling Async C# Methods + Callback Functions Technique via EnumUILanguagesA + EnumSystemLocalesA Native APIs)
 
- Note: NativePayload_TiACBT will call APIs: OpenProcess,VirtualAllocEx,WriteProcessMemory,CreateRemoteThread (all methods called via Async Method + Callback Functions ...)
+ Note: NativePayload_TiACBT will call APIs: OpenProcess,VirtualAllocEx,WriteProcessMemory,CreateRemoteThread (all methods called via Async C# Method + Callback Functions ...)
  
  usage: 
     
@@ -31,7 +31,7 @@ C# Codes: "New C# codes for Callback Functions will publish here soon..."
 
  Note: NativePayload_TiACBT2 will call APIs: OpenProcess,VirtualAllocEx,WriteProcessMemory,NtCreateThreadEx
  
- Note: in this code Method1 (OpenProcess) will call Method2 (VirtualAllocEx) & Method Will Call Method3 (WriteProcessMemory) & Method Will call Method4 (NtCreateThreadEx) and all methods called via Async Method + Callback Functions ...
+ Note: in this code Method1 (OpenProcess) will call Method2 (VirtualAllocEx) & Method2 Will Call Method3 (WriteProcessMemory) & Method3 Will call Method4 (NtCreateThreadEx) and all methods called via Async C# Method + Callback Functions ...
 
  usage: 
     
