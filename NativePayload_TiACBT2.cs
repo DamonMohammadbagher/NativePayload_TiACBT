@@ -235,8 +235,8 @@ namespace NativePayload_TiACBT2
             Console.ForegroundColor = ConsoleColor.Gray;
             Console.WriteLine("NativePayload_TiACBT2 , Thread Injection + Async C# + Callback Functions Technique via (EnumUILanguagesA) API");
             Console.WriteLine();
-            Console.WriteLine("Example: NativePayload_TiACBT.exe [mode 1,2] [TPID] [PAYLOAD]");
-            Console.WriteLine("Example: NativePayload_TiACBT.exe 1 2187 fc,48,67,00,00,67,f1");
+            Console.WriteLine("Example: NativePayload_TiACBT2.exe [TPID] [PAYLOAD]");
+            Console.WriteLine("Example: NativePayload_TiACBT2.exe 2187 fc,48,67,00,00,67,f1");
             /// using API Monitor & readkey
             // Console.ReadKey();
             Console.WriteLine();
