@@ -17,10 +17,10 @@ C# Codes:
 ```
 you can upload your Code like "image/gif/png/jpeg" files instead "text" file, sometimes this is good idea to avoid using files directly as source code ;D , but still you need to upload source code with zip formats etc (with/without random pwd for each download) ;)
 
-```diff
-+    1. NativePayload_TiACBT.png
-+    2. NativePayload_TiACBT2.png
-```
+
+     1. NativePayload_TiACBT.png
+     2. NativePayload_TiACBT2.png
+
 --------------------------------------------
 
 1. NativePayload_TiACBT.cs (Remote Thread Injection + Calling Async C# Methods + Callback Functions Technique via EnumUILanguagesA + EnumSystemLocalesA Native APIs)
