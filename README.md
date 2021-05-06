@@ -11,7 +11,7 @@ C# Codes: "New C# codes for Callback Functions will publish here soon..."
 +    1. NativePayload_TiACBT.cs
 +    2. NativePayload_TiACBT2.cs
 ```
-you can upload your Code like "image/gif/png/jpeg" files instead "text" file, this is good idea to avoid using files directly as source code ;D , but still you need to upload source code with zip formats etc (with/without random pwd for each download) ;)
+you can upload your Code like "image/gif/png/jpeg" files instead "text" file,sometimes this is good idea to avoid using files directly as source code ;D , but still you need to upload source code with zip formats etc (with/without random pwd for each download) ;)
 
 ```diff
 +    1. NativePayload_TiACBT.png
